@@ -229,4 +229,4 @@ Evochron Mercenary is offered as a complete free version, providing players with
 Get ready for an adventure like no other! Download Evochron Mercenary today and start your journey in the vast universe of space exploration and combat.
 
 ---
-**Last updated:** 2026-11-07 20:01:10 UTC
+**Last updated:** 2026-11-08 00:06:18 UTC
